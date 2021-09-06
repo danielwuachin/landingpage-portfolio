@@ -4,4 +4,4 @@ Repositorio de landing page estilo portfolio para diseñadores o desarrolladores
 
 ## Proyectos
 
-- [Landing Page de tipo Portfolio-CV](https://github.com/danielwuachin/landingpage-portfolio)
+- [Landing Page de tipo Portfolio-CV](https://danielwuachin.github.io/landingpage-portfolio/portfolio-cv/#inicio)
