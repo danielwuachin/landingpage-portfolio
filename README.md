@@ -21,7 +21,7 @@ Example of a Landing page portfolio for web developers and web designers.
 
   ## Link to the page
 
-- [Landing Page Portfolio Example](https://danielwuachin.github.io/landingpage-portfolio/portfolio-cv/#inicio)
+- <a href="https://danielwuachin.github.io/landingpage-portfolio/portfolio-cv/" target="_blank" rel="noopened">Click me!🌎</a>
 
 <br>
 
