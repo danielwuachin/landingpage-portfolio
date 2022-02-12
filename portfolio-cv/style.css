@@ -630,6 +630,10 @@ progress::-moz-progress-bar{
     margin-top: -1rem;
 }
 
+.contact-card > small > a{
+    color: var(--first-color);
+}
+
 
 
 
